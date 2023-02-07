@@ -1,4 +1,5 @@
-## Olá!!! eu sou o Fernando
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Fernando;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+</p>
 
 <img align="right" alt="mamaco" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif">
 
