@@ -4,7 +4,7 @@
 <img align="right" alt="mamaco" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif">
 
 ### Algumas informações sobre mim
-- ⏳ Tenho 20 anos.
+- ⏳ Tenho 21 anos.
 - 🎓 Estou cursando Engenharia de Controle e Automação.
 - 💻 Buscando melhorar na programação.
 - 📚 Desejo aprender mais sobre desenvolvimento de jogos.
